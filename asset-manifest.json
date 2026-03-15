@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/enjoy-tour-guide-sri-lanka/static/css/main.fbe58208.css",
+    "main.js": "/enjoy-tour-guide-sri-lanka/static/js/main.e7d1fc30.js",
+    "static/js/453.13a674a8.chunk.js": "/enjoy-tour-guide-sri-lanka/static/js/453.13a674a8.chunk.js",
+    "index.html": "/enjoy-tour-guide-sri-lanka/index.html",
+    "main.fbe58208.css.map": "/enjoy-tour-guide-sri-lanka/static/css/main.fbe58208.css.map",
+    "main.e7d1fc30.js.map": "/enjoy-tour-guide-sri-lanka/static/js/main.e7d1fc30.js.map",
+    "453.13a674a8.chunk.js.map": "/enjoy-tour-guide-sri-lanka/static/js/453.13a674a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbe58208.css",
+    "static/js/main.e7d1fc30.js"
+  ]
+}
